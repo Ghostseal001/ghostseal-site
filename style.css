@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #000 url('background.jpg') no-repeat center / cover;
+  color: #fff;
+}
+.hero {
+  text-align: center;
+  padding: 100px 20px;
+}
+.logo {
+  width: 150px;
+  height: auto;
+}
+.button {
+  display: inline-block;
+  background: #ccc;
+  padding: 12px 24px;
+  color: #000;
+  text-decoration: none;
+  margin-top: 20px;
+  border-radius: 4px;
+}
